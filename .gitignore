@@ -1,0 +1,35 @@
+# Licenças e ficheiros do Gurobi (em qualquer pasta ou subpasta)
+gurobi.lic
+*.lic
+gurobi.log
+**/gurobi.lic
+**/*.lic
+**/gurobi.log
+
+# Logs e saídas de processos em segundo plano
+nohup.out
+**/nohup.out
+
+# Ambientes virtuais Python
+.venv/
+venv/
+env/
+**/.venv/
+**/venv/
+**/env/
+
+# Ficheiros e caches do Jupyter Notebook
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+**/__pycache__/
+**/*.py[cod]
+
+# Configurações de IDEs e do sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

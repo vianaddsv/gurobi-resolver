@@ -1,0 +1,9 @@
+services:
+  gurobi-lab:
+    build: .
+    network_mode: "host"
+    volumes:
+      - ./notebooks:/app/notebooks
+      - ./gurobi.lic:/opt/gurobi/gurobi.lic:ro
+    environment:
+      - GRB_LICENSE_FILE=/opt/gurobi/gurobi.lic
