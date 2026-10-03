@@ -12,7 +12,7 @@ Este repositório contém a formulação matemática e a implementação em Pyth
 
 ## 📚 Estudos de Caso
 
-Os problemas implementados foram baseados no livro *Otimização Combinatória e Programação Linear: Modelos e Algoritmos* (Goldbarg & Luna, 2005)[cite: 1, 4].
+Os problemas implementados foram baseados no livro *Otimização Combinatória e Programação Linear: Modelos e Algoritmos* (Goldbarg & Luna, 2005).
 
 ### 1. Problema de Pequeno Porte: O Problema da Dieta
 * **Dimensão:** 4 Variáveis contínuas e 3 restrições.
@@ -45,8 +45,8 @@ Para executar os modelo sem limitações de tamanho de problema, certifique-se d
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-   cd nome-do-repositorio
+   git clone [https://github.com/vianaddsv/gurobi-resolver](https://github.com/vianaddsv/gurobi-resolver)
+   cd gurobi-resolver
    ```
 
 2. **Crie e ative um ambiente virtual isolado (`venv`):**
@@ -85,4 +85,4 @@ O projeto inclui um `Makefile` para automatizar tarefas operacionais e simplific
 
 ## 📖 Referência Bibliográfica
 
-* GOLDBARG, Marco Cesar; LUNA, Henrique Pacca L. *Otimização Combinatória e Programação Linear: Modelos e Algoritmos*. 2. ed. Rio de Janeiro: Elsevier, 2005[cite: 1, 4].
+* GOLDBARG, Marco Cesar; LUNA, Henrique Pacca L. *Otimização Combinatória e Programação Linear: Modelos e Algoritmos*. 2. ed. Rio de Janeiro: Elsevier, 2005.
