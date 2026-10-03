@@ -45,7 +45,7 @@ Para executar os modelo sem limitações de tamanho de problema, certifique-se d
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/vianaddsv/gurobi-resolver](https://github.com/vianaddsv/gurobi-resolver)
+   git clone https://github.com/vianaddsv/gurobi-resolver.git
    cd gurobi-resolver
    ```
 
